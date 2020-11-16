@@ -1,11 +1,10 @@
 **Hello!**
 
-I uploaded 3 files with different extensions.
+A project built for Namaste Technologies, Canada. It aims for the Data Analyst position I was running for at the time.
 
-- PDF
-- HTML
-- IPYNB
+Here you'll find an end to end analysis about the first quarter namaste's sales. Some highlights:
 
-I also sent an email to Mr. Thomas with the .zip.
-
-Best regards, Thiago.
+- Data Analysis built-in Python + SQL
+- API connection to identify currency rates between the USA and Canada's dollar;
+- Data Visualization developed in Tableau. You can find a print at the end of the code and also in this link: https://tabsoft.co/35AKLqs
+- SQL database structured to maintain needed databases.
