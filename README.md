@@ -1,6 +1,6 @@
 **Hello!**
 
-A project built for Namaste Technologies, Canada. It aims for the Data Analyst position I was running for at the time.
+A project built for Namaste Technologies, Toronto, ON, Canada.
 
 Here you'll find an end to end analysis about the first quarter namaste's sales. Some highlights:
 
