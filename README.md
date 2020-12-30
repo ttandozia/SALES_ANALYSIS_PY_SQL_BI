@@ -14,3 +14,8 @@ Here you'll find an end to end analysis about the first quarter namaste's sales.
 - After the analysis, it is possible to see that the Company's sales followed the market in the first quarter, increasing every month;
 - The most representative province was Alberta. In March, its growth was 20.65% compared with February;
 - The least representative province was Ontario, with a 10% growth in March compared with February.
+
+
+Here you can see the dashboard built in Tableau.
+
+<img src="./print_examples/image_1.jpg" height="600" width="900">
